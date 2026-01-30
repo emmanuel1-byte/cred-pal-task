@@ -1,0 +1,1347 @@
+{
+  errno: undefined,
+  code: 'ENOTFOUND',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.zmeghlt.mongodb.net',
+  level: 'error',
+  timestamp: '2026-01-30T20:51:17.392Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTFOUND',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.zmeghlt.mongodb.net',
+  level: 'error',
+  timestamp: '2026-01-30T21:07:22.799Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTFOUND',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.zmeghlt.mongodb.net',
+  level: 'error',
+  timestamp: '2026-01-30T21:08:39.077Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTFOUND',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.zmeghlt.mongodb.net',
+  level: 'error',
+  timestamp: '2026-01-30T21:09:52.348Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTFOUND',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.zmeghlt.mongodb.net',
+  level: 'error',
+  timestamp: '2026-01-30T21:10:00.088Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTFOUND',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.zmeghlt.mongodb.net',
+  level: 'error',
+  timestamp: '2026-01-30T21:10:12.173Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTFOUND',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.zmeghlt.mongodb.net',
+  level: 'error',
+  timestamp: '2026-01-30T21:10:28.201Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTFOUND',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.zmeghlt.mongodb.net',
+  level: 'error',
+  timestamp: '2026-01-30T21:10:48.629Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:11:22.804Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:11:22.811Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:11:39.683Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:11:39.688Z'
+}
+{
+  message: "Signup failed: TypeError: Cannot read properties of undefined (reading 'authService')",
+  level: 'error',
+  timestamp: '2026-01-30T21:20:20.105Z'
+}
+{
+  message: "Cannot read properties of undefined (reading 'authService')",
+  stack: "TypeError: Cannot read properties of undefined (reading 'authService')\n" +
+    '    at signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/src/module/authentication/auth.controller.ts:18:34)\n' +
+    '    at Layer.handleRequest (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/router/lib/layer.js:152:17)\n' +
+    '    at next (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/router/lib/route.js:157:13)\n' +
+    '    at Route.dispatch (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/router/lib/route.js:117:3)\n' +
+    '    at handle (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/router/index.js:435:11)\n' +
+    '    at Layer.handleRequest (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/router/lib/layer.js:152:17)\n' +
+    '    at /home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/router/index.js:295:15\n' +
+    '    at processParams (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/router/index.js:582:12)\n' +
+    '    at next (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/router/index.js:291:5)\n' +
+    '    at Function.handle (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/router/index.js:186:3)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:20:20.130Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:21:54.426Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:21:54.483Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:22:02.714Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:22:02.720Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:23:39.704Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:23:39.711Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:24:41.108Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:24:41.113Z'
+}
+{
+  message: 'Signup failed: Error: secretOrPrivateKey must have a value',
+  level: 'error',
+  timestamp: '2026-01-30T21:25:11.317Z'
+}
+{
+  message: 'secretOrPrivateKey must have a value',
+  stack: 'Error: secretOrPrivateKey must have a value\n' +
+    '    at module.exports (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/jsonwebtoken/sign.js:111:20)\n' +
+    '    at AuthService.generateToken (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/src/module/authentication/auth.service.ts:50:25)\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/src/module/authentication/auth.service.ts:17:30)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/src/module/authentication/auth.controller.ts:14:23)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:25:11.325Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:26:12.261Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:26:12.267Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:26:20.766Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:26:20.777Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:27:09.807Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:27:09.812Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:27:18.917Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:27:18.969Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:27:28.219Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/src/module/authentication/auth.service.ts:10:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/src/module/authentication/auth.controller.ts:14:23)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:27:28.227Z'
+}
+{
+  message: 'Signup failed: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms',
+  level: 'error',
+  timestamp: '2026-01-30T21:31:29.786Z'
+}
+{
+  message: 'Operation `users.findOne()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n' +
+    '    at Timeout._onTimeout (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:131:25)\n' +
+    '    at listOnTimeout (node:internal/timers:594:17)\n' +
+    '    at process.processTimers (node:internal/timers:529:7)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:31:29.791Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:31:47.539Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T21:31:47.540Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:31:50.024Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:31:50.026Z'
+}
+{
+  message: 'Signup failed: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms',
+  level: 'error',
+  timestamp: '2026-01-30T21:32:17.810Z'
+}
+{
+  message: 'Operation `users.findOne()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n' +
+    '    at Timeout._onTimeout (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:131:25)\n' +
+    '    at listOnTimeout (node:internal/timers:594:17)\n' +
+    '    at process.processTimers (node:internal/timers:529:7)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:32:17.822Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:32:49.658Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:32:49.663Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:33:31.916Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/src/module/authentication/auth.service.ts:10:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/src/module/authentication/auth.controller.ts:14:23)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:33:31.925Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:33:54.374Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T21:33:54.380Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:34:29.497Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:34:29.499Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:34:44.290Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T21:34:44.292Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:35:13.577Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:35:13.580Z'
+}
+{
+  message: "Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/",
+  errorLabelSet: Set(0) {},
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-3441ev4-shard-00-00.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-00.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214727261,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      },
+      'ac-3441ev4-shard-00-01.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-01.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214726778,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      },
+      'ac-3441ev4-shard-00-02.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-02.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214727002,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-8ixjzx-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  cause: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-3441ev4-shard-00-00.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-00.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214727261,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      },
+      'ac-3441ev4-shard-00-01.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-01.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214726778,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      },
+      'ac-3441ev4-shard-00-02.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-02.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214727002,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C02C0E38BA7D0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-8ixjzx-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  level: 'error',
+  timestamp: '2026-01-30T21:37:36.613Z'
+}
+{
+  message: "Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/",
+  errorLabelSet: Set(0) {},
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-3441ev4-shard-00-00.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-00.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214766800,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      },
+      'ac-3441ev4-shard-00-01.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-01.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214766128,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      },
+      'ac-3441ev4-shard-00-02.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-02.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214766623,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-8ixjzx-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  cause: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-3441ev4-shard-00-00.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-00.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214766800,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      },
+      'ac-3441ev4-shard-00-01.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-01.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214766128,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      },
+      'ac-3441ev4-shard-00-02.zuiikzw.mongodb.net:27017' => ServerDescription {
+        address: 'ac-3441ev4-shard-00-02.zuiikzw.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 214766623,
+        lastWriteDate: 0,
+        error: MongoNetworkError: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+        
+            at TLSSocket.<anonymous> (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/mongodb/lib/cmap/connect.js:286:44)
+            at Object.onceWrapper (node:events:633:26)
+            at TLSSocket.emit (node:events:518:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: [Error: C04CF5832C700000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+          ] {
+            library: 'SSL routines',
+            reason: 'tlsv1 alert internal error',
+            code: 'ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR'
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-8ixjzx-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  level: 'error',
+  timestamp: '2026-01-30T21:38:16.506Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:42:02.513Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T21:42:02.519Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:42:29.890Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:42:29.893Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:42:38.940Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:42:38.941Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:42:40.994Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:42:40.995Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:42:52.049Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: development',
+  level: 'info',
+  timestamp: '2026-01-30T21:42:52.057Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:42:58.720Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/src/module/authentication/auth.service.ts:10:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/src/module/authentication/auth.controller.ts:14:23)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:42:58.726Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:43:19.990Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T21:43:19.992Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:43:40.184Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:43:40.186Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:44:15.229Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T21:44:15.231Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:44:16.908Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:44:16.910Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:45:41.924Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T21:45:41.927Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:45:42.782Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:45:42.784Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:45:54.669Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:45:54.670Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:45:57.352Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:45:57.353Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:45:58.750Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:45:58.751Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:46:00.241Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:46:00.241Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:50:36.642Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T21:50:36.647Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:50:38.953Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:50:38.954Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:50:40.508Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:50:40.509Z'
+}
+{
+  message: 'Signup failed: ConflictError: User aleady exist',
+  level: 'error',
+  timestamp: '2026-01-30T21:50:41.913Z'
+}
+{
+  message: 'User aleady exist',
+  stack: 'ConflictError: User aleady exist\n' +
+    '    at AuthService.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.service.js:48:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async AuthController.signup (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/authentication/auth.controller.js:17:33)',
+  url: '/api/v1/auth/signup',
+  method: 'POST',
+  level: 'error',
+  timestamp: '2026-01-30T21:50:41.914Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T21:52:27.413Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T21:52:27.414Z'
+}
+{
+  message: 'Product not found',
+  stack: 'NotFoundError: Product not found\n' +
+    '    at ProductService.getproduct (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/product/product.service.js:42:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async ProductController.getProduct (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/product/product.controller.js:55:33)',
+  url: '/api/v1/products/697d28cd2fd625363c47bda8',
+  method: 'GET',
+  level: 'error',
+  timestamp: '2026-01-30T21:57:31.093Z'
+}
+{
+  message: '[\n' +
+    '  {\n' +
+    '    "expected": "string",\n' +
+    '    "code": "invalid_type",\n' +
+    '    "path": [\n' +
+    '      "name"\n' +
+    '    ],\n' +
+    '    "message": "Invalid input: expected string, received undefined"\n' +
+    '  },\n' +
+    '  {\n' +
+    '    "expected": "number",\n' +
+    '    "code": "invalid_type",\n' +
+    '    "path": [\n' +
+    '      "price"\n' +
+    '    ],\n' +
+    '    "message": "Invalid input: expected number, received undefined"\n' +
+    '  }\n' +
+    ']',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "expected": "string",\n' +
+    '    "code": "invalid_type",\n' +
+    '    "path": [\n' +
+    '      "name"\n' +
+    '    ],\n' +
+    '    "message": "Invalid input: expected string, received undefined"\n' +
+    '  },\n' +
+    '  {\n' +
+    '    "expected": "number",\n' +
+    '    "code": "invalid_type",\n' +
+    '    "path": [\n' +
+    '      "price"\n' +
+    '    ],\n' +
+    '    "message": "Invalid input: expected number, received undefined"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at ProductController.updateProduct (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/product/product.controller.js:26:80)\n' +
+    '    at Layer.handleRequest (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/router/lib/layer.js:152:17)\n' +
+    '    at next (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/node_modules/router/lib/route.js:157:13)\n' +
+    '    at authenticateJWT (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/middlewares/authenticate-jwt.js:58:9)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  url: '/api/v1/products/697d28cd2fd625363c47bda9',
+  method: 'PATCH',
+  level: 'error',
+  timestamp: '2026-01-30T21:59:14.130Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T22:01:49.906Z'
+}
+{
+  message: '✅ Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T22:01:49.912Z'
+}
+{
+  message: 'Product not found',
+  stack: 'NotFoundError: Product not found\n' +
+    '    at ProductService.deleteProduct (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/product/product.service.js:56:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async ProductController.deleteProduct (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/product/product.controller.js:68:17)',
+  url: '/api/v1/products/697d28cd2fd625363c47bda9',
+  method: 'DELETE',
+  level: 'error',
+  timestamp: '2026-01-30T22:02:49.423Z'
+}
+{
+  message: 'Product not found',
+  stack: 'NotFoundError: Product not found\n' +
+    '    at ProductService.deleteProduct (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/product/product.service.js:56:45)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async ProductController.deleteProduct (/home/emmanuel/Kitchen/home-lab/Typescript/cred-pal-task/dist/src/module/product/product.controller.js:68:17)',
+  url: '/api/v1/products/697d28cd2fd625363c47bda9',
+  method: 'DELETE',
+  level: 'error',
+  timestamp: '2026-01-30T22:02:51.817Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T22:26:19.757Z'
+}
+{
+  message: 'Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T22:26:19.762Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  timestamp: '2026-01-30T22:30:55.231Z'
+}
+{
+  message: 'Server successfully started and listening on port 3000. Environment: production',
+  level: 'info',
+  timestamp: '2026-01-30T22:30:55.234Z'
+}
